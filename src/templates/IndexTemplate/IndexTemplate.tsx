@@ -45,8 +45,8 @@ export const query = graphql`
     allMarkdownRemark(
       limit: $limit
       skip: $offset
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
+      sort: {frontmatter: {date: DESC}}
+      filter: {frontmatter: {template: {eq: "post"}, draft: {ne: true}}}
     ) {
       edges {
         node {

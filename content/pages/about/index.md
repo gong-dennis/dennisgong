@@ -1,13 +1,8 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm a PhD Candidate in the Medical Engineering and Medical Physics (MEMP) program, jointly run by Harvard Medical School and MIT. I work in [Will Hwang's lab](https://www.whwanglab.org/) in the MGH Center for Cancer Research and affiliated with the Broad Institute of MIT & Harvard. I am particularly interested in questions pertaining to therapeutic resistance to driver oncogene inhibition. Using pancreatic cancer and KRAS addiction as a model system, I hope to understand the biology of resistant and recurrent tumors using a variety of single cell and spatial approaches.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
-
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I grew up in Baltimore, Maryland and did undergrad at Johns Hopkins University where I majored in Biomedical Engineering and Applied Math & Statistics. 

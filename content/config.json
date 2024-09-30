@@ -1,15 +1,15 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "title": "Dennis Gong",
+  "url": "https://dennisgong.com",
+  "subtitle": "Dennis Gong\'s Personal Website",
+  "copyright": "© Dennis Gong. Built From Gatsby Lumen.",
+  "googleAnalyticsId": "UA-144591906-1",
   "disqusShortname": "",
-  "postsLimit": 4,
+  "postsLimit": 10,
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Blog Posts",
       "path": "/"
     },
     {
@@ -17,32 +17,19 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contacts"
+      "label": "Research",
+      "path": "/pages/research"
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Dennis Gong",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Harvard-MIT PhD Student",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
-      "line": "",
-      "weibo": "",
-      "gitlab": "",
-      "medium": "",
-      "youtube": "",
-      "codepen": "",
-      "soundcloud": "",
-      "bluesky": ""
+      "email": "gong.dennis@gmail.com",
+      "twitter": "GongDennis",
+      "linkedin": "dennisgong"
     }
   }
 }
