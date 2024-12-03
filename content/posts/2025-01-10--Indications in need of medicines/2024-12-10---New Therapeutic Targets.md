@@ -2,7 +2,7 @@
 title: "How to find new targets"
 date: "2024-11-16T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/newtargets/"
 category: "Life Sciences"
 tags:
