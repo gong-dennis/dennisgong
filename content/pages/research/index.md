@@ -6,7 +6,9 @@ template: "page"
 ##### Please see my [Google Scholar](https://scholar.google.com/citations?user=mlArGDAAAAAJ&hl=en) for an updated list of research presentations and publications.
 
 ### This Site:
-
+November 2024 - [What my lab would do](https://www.dennisgong.com/blog/lab/) <br />
+October 2024 - [Is genius worth pursuing?](https://www.dennisgong.com/blog/AI/) <br />
+September 2024 - [Doing a PhD in Cancer Biology](https://www.dennisgong.com/blog/CancerPhD/) <br />
 August 2024 - [Antibodies](https://www.dennisgong.com/blog/Antibodies/) <br />
 July 2024 - [Guardant Health](https://www.dennisgong.com/blog/Guardant/) <br />
 June 2024 - [Tempus AI S-1](https://www.dennisgong.com/blog/TempusIPO/) <br />
