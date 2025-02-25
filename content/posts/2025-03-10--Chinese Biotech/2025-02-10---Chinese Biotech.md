@@ -1,6 +1,6 @@
 ---
 title: "Chinese Biotech 🇨🇳"
-date: "2025-2-22T12:00:00.000Z"
+date: "2025-02-22T12:00:00.000Z"
 template: "post"
 draft: False
 slug: "/blog/ChineseBiotech/"
@@ -341,7 +341,7 @@ In ophthalmology, 9MW0211 is a VEGF antibody being developed (in addition to the
 - Innovent's pipeline is filled with in licenses of out of China approved products that the company is developing in China.
 - The most interesting thing in their pipeline is a dual PD-1/IL-2 bispecific that blocks PD-1 and rejuvenates TILs. This is in Ph2 but Ph1 data was published [here](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.9562). They have a pretty strong IL-23p19 (Picankibart) which showed >80% PASI 90 at 16 weeks in a registrational Ph3 trial with a 12 week dosing interval. They also have a IL-4r/TSLP bispecific in Ph1 (IBI-3002), amongst many other drugs in the pipeline.
 - In obesity, Innovent has Mazdutide, which is a dual GLP-1 and glucagon receptor agonist that beat [Lilly's dulaglutide](https://endpts.com/innovent-says-next-gen-glp-1-drug-from-eli-lilly-beats-top-diabetes-med-in-phase-3-china-study/) head to head in a Phase III.
-Innovent is based in Suzhou and was founded in 2011 by CEO Michael Yu (UCSF postdoc)
+- Innovent is based in Suzhou and was founded in 2011 by CEO Michael Yu (UCSF postdoc)
 
 # General Trends
 
