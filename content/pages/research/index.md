@@ -6,6 +6,9 @@ template: "page"
 ##### Please see my [Google Scholar](https://scholar.google.com/citations?user=mlArGDAAAAAJ&hl=en) for an updated list of research presentations and publications.
 
 ### This Site:
+February 2025 - [Chinese Biotech](https://www.dennisgong.com/blog/ChineseBiotech/) <br />
+January 2025 - [20 Biotech Trades](https://www.dennisgong.com/blog/BiotechTrades/) <br />
+December 2024 - [Year in Review](https://www.dennisgong.com/blog/2025review/) <br />
 November 2024 - [What my lab would do](https://www.dennisgong.com/blog/lab/) <br />
 October 2024 - [Is genius worth pursuing?](https://www.dennisgong.com/blog/AI/) <br />
 September 2024 - [Doing a PhD in Cancer Biology](https://www.dennisgong.com/blog/CancerPhD/) <br />
