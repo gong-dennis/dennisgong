@@ -131,19 +131,19 @@ I've written extensively on this company previously, [here](https://www.dennisgo
 If you were to make a bet in precision medicine...
 
 #### Teva (\$TEVA)
-Biosimilar revenue (\$4.3 billion worth)
-Good antibody developer. 
-TL1A antibody has value. 
-Sneaky excited about IL-15 antibody in celiac.
+1. Biosimilar revenue (\$4.3 billion worth)
+2. Good antibody developer. 
+3. TL1A antibody has value. 
+4. Sneaky excited about IL-15 antibody in celiac.
 
 #### Launches and Acquisitions
 
 For some companies, there ultimately isn't much to say aside from the clinical trial data being pretty good, and the valuation of the company being less than the time and capital adjusted returns it would provide in downstream revenue.
 
-Verona Pharma (\$VRNA): Launch of inhalable PDE4 inhibitor
-Tarsus Pharma (\$TARS): Rare eye infections
-Cytokinetics (\$CYTK): Cardiac myosin inhibitors and activators
-Scholar Rock (\$SRRK): Activin receptor ligand trap
+1. Verona Pharma (\$VRNA): Launch of inhalable PDE4 inhibitor
+2. Tarsus Pharma (\$TARS): Rare eye infections
+3. Cytokinetics (\$CYTK): Cardiac myosin inhibitors and activators
+4. Scholar Rock (\$SRRK): Activin receptor ligand trap
 
 ## SHORT
 
@@ -151,9 +151,9 @@ Scholar Rock (\$SRRK): Activin receptor ligand trap
 
 Mostly to keep track of the opportunities:
 
-Quantum computing stocks (QSI, IONQ, & QUBT)
-Fartcoin
-Northwest Biotherapeutics (\$NWBO)
+1. Quantum computing stocks (QSI, IONQ, & QUBT)
+2. Fartcoin
+3. Northwest Biotherapeutics (\$NWBO)
 
 #### Recursion Pharmaceuticals (\$RXRX)
 

@@ -15,6 +15,9 @@ The goal for today is to develop and apply a pipeline for understanding the land
 
 ### Genetic association: 
 
+Link to Atlas article (Aimee Raleigh)
+
+
 Genetic priority score (Duffy et al. 2024): https://www.nature.com/articles/s41588-023-01609-2
 ML-Genetic priority score (Chen et al. 2024): https://rstudio-connect.hpc.mssm.edu/mlgps/
 
@@ -41,7 +44,7 @@ They are required to describe competitive landscape
 - [What are unmet needs?](#what-are-unmet-needs)
   - [Cancer (link to previous article)](#cancer-link-to-previous-article)
 
-- [Derm](#derm)
+- [Dermatology](#dermatology)
   - [Atopic Dermatitis](#atopic-dermatitis)
   - [Vitiligo](#vitiligo)
   - [Chronic Rhinosinusitis with Nasal Polyps](#chronic-rhinosinusitis-with-nasal-polyps)
@@ -123,7 +126,7 @@ They are required to describe competitive landscape
 
 Cancer (link to previous article)
 
-## Derm
+## Dermatology
 
 ### Atopic Dermatitis
 
@@ -142,9 +145,13 @@ IL-15
 ### Chronic Rhinosinusitis with Nasal Polylps
 
 ### Hidradenitis Suppurativa 
+IL1-a/b
+TNF-a
+
 
 ### Prurigo Nodularis
-
+IL-31
+Dupixent, IL-13
 
 ## Opthalmic Diseases
 
@@ -161,7 +168,7 @@ IL-15 / CD122
 
 ### Crohn's Disease
 
-IL-23
+IL-23, a4b7, TL1A
 
 ### Inflammatory Bowel Disease
 
@@ -191,7 +198,11 @@ RANKL
 
 ### Food Allergy
 
+IgE, antigen sensitization
+
 ### IgG4 Related Disease
+
+CD19 Amgen Uplizna
 
 ### Primary Sjrogen's Syndrome
 
@@ -261,6 +272,9 @@ Non-alcoholic steatohepatitis lacks approved therapies.
 Need for more effective LDL-lowering strategies.
 
 ### Obesity
+GLP-1/GIPR
+
+
 
 ## Pain and Psychiatry
 ### Chronic Neuropathic Pain: Lack of effective, non-addictive therapies.
@@ -273,6 +287,10 @@ Treatments primarily address positive symptoms.
 
 ### Post-Traumatic Stress Disorder (PTSD): 
 Few disease-modifying treatments available.
+
+
+
+
 
 ## Pulmonology
 ### Idiopathic Pulmonary Fibrosis (IPF): 

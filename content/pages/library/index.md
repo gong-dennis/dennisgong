@@ -18,9 +18,11 @@ Bad Blood - John Carreyrou <br />
 A Cure Within - Neil Caravan <br />
 Extreme Ownership - Jocko Willink <br />
 Chaos Monkeys - Antonio García Martínez <br />
+Outlive - Peter Attia <br />
 
 ## Previous
-
+How to Make a Few Billion Dollars - Brad Jacobs <br />
+100 Ways to Improve Your Writing - Gary Provost <br />
 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming - Paul Hawken <br />
 Drugs and the FDA - Michael Sekeres <br />
 Pharmagellan Guide to Biotech Valuation - Frank David <br />

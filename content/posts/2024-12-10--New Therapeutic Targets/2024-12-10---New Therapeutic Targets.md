@@ -55,11 +55,11 @@ Secondary to the simple approach of analyzing diseased tissue is deriving target
 
 These approaches have had a history of success, with many drugs being approved solely from the results of a phenotypic screening approach. Indeed, many drugs don't even have a solid understanding of the target (e.g. aspirin, acetaminophen, etc). 
 
-Pioneered in cancer but certainly expanding to other indications, CRISPR screens are not frequently used to identify gene targets capable of inducing a phenotype. For cancer, the readout is typically loss in proliferative capacity, but there are many other creative ways to design screening endpoints. In vivo screens have identified new cancer immunotherapy targets like [Ptpn2](https://www.nature.com/articles/nature23270).
+Pioneered in cancer but certainly expanding to other indications, CRISPR screens are now frequently used to identify gene targets capable of inducing a phenotype. For cancer, the readout is typically loss in proliferative capacity, but there are many other creative ways to design screening endpoints. In vivo screens have identified new cancer immunotherapy targets like [Ptpn2](https://www.nature.com/articles/nature23270).
 
 3. Tertiary Omics
 
-Finally, tertiary -omics is what I refer to as 'artisanal alpha'. These are the targets which require new model systems or new techniques to uncover. These are hypothesis driven and are much more difficult to brute force. Maybe a metabolic pathway had to be figured out first. Maybe we needed to understand how the immune system worked before understanding that cells instead of specific proteins can be pathogenic. Tertiary omics targets have historically led to giant breakthroughs, and many of the best selling and most impactful drugs are not from brute force approaches (PD1 antibodies, steroids, statins, Dupixent, anti-cytokine drugs in general, Advair, GLP1s, etc.)
+Finally, tertiary -omics is what I refer to as 'artisanal alpha'. These are the targets which require new model systems or new techniques to uncover. These are hypothesis driven and are much more difficult to brute force. Maybe a metabolic pathway had to be figured out first. Maybe we needed to understand how the immune system worked before understanding that cells instead of specific proteins can be pathogenic. Tertiary omics targets have historically led to giant breakthroughs, and many of the best selling and most impactful drugs are not from brute force approaches (PD1 antibodies, steroids, statins, Dupixent, anti-cytokine drugs in general, Advair, GLP1s, etc.).
 
 Beyond background knowledge, tertiary omics targets often require new discovery formats. For example, many immunotherapy targets including PD1, LAG3, and CTLA-4 were discovered in reductionist T cell activation and exhaustion models, sometimes involving transgenic OT1 mice. Inventing this system was crucial to discovering these molecules and their functions. Another example is the discovery of IL-11. This came in an RNAseq assay simply measuring the transcriptional output of treatment with TGFb. The critical insight was understanding that TGFb itself may not be druggable, but its effector proteins may be, and now there is an emerging story of IL-11 inhibition in fibrotic diseases. Similar tricks can be used for other pathogenic secreted proteins (e.g. STAT6 inhibition in type 2 autoimmunity driven conditions).
 
@@ -83,7 +83,7 @@ Virus sequencing studies also nominate viral proteins for small molecule antivir
 
 In some instances a leap needs to be made based on the function of the mutated protein. For example, paroxysmal nocturnal haemoglobinuria is characterized by mutations in PIG-A, which prevents surface presentation of complement inhibitors on red blood cells. The approved drugs are thus complement targeted instead of PIG-A targeted.
 
-Primary level targets are reaching saturation. Some very large GWAS studies are potentially identifying new risk alleles
+Primary level targets are reaching saturation. Some very large GWAS studies are potentially identifying new risk alleles, but on the whole its harder and harder to squeeze out new variants.
 
 #### Secondary level -omics targets
 
