@@ -21,7 +21,7 @@ My opinion on why this topic got a lot of press is that people don't really have
 
 I think the most interesting thing to talk about now are the pipelines. I've been curious about what is out there (and what U.S. BD groups are looking at). I want to know what therapeutic areas China cares about, and what new and creative mechanisms they are exploring (its not all me-toos). 
 
-Today I go over 50+ companies, mostly focused on oncology and I&I, with some obesity. I wasn't comprehensive in describing pipelines but just wanted to highlight interesting molecules and overall trends. If you are interested in the summary, you can skip to the end, but first we will review individual companies. 
+Today I go over 50+ companies, mostly focused on oncology and I&I, with some obesity. I wasn't comprehensive in describing pipelines but just wanted to highlight interesting molecules and overall trends. If you are interested in the [summary](#general-trends), you can skip to the end, but first we will review individual companies. 
 
 Before we begin, the best news feed on Chinese biotech (by far) is from [Minhua Chu](https://x.com/chuminhua432) on Twitter. Highly recommend following. Here is an overview of [Chinese biotech in 2024](https://www.pharmadj.com/en/article/1878614257145294850) from her and her team. Also disclaimer: I did not look at any clinical data. If these drugs are toxic or don't have efficacy I had no idea when I listed them.
 
@@ -30,6 +30,63 @@ Before we begin, the best news feed on Chinese biotech (by far) is from [Minhua 
 ![ahshit](ahshit.jpg "ahshit")
 
 Chinese biotech is much bigger than I thought. Company after company -- you think you've reached the end and then you read another Minhua tweet and its another 20 drug pipeline and then you realize that China never ends.
+
+## Table of Contents
+
+- [Keymed Biosciences](#keymed-biosciences)
+- [CSPC Pharmaceuticals Group](#cspc-pharmaceuticals-group)
+- [BeiGene](#BeiGene)
+- [Kelun Biotech](#kelun-biotech)
+- [Duality Bio](#duality-bio)
+- [CARsgen](#carsgen)
+- [Legend Biotech](#legend-biotech)
+- [Shanghai Pharma Biotherapeutics](#shanghai-pharma-biotherapeutics)
+- [Lepu Biopharma](#lepu-biopharma)
+- [Fosun Pharma](#fosun-pharma)
+- [Zhejiang Medicine](#zhejiang-medicine)
+- [Leads Biolabs](#leads-biolabs)
+- [Genor Biopharma](#genor-biopharma)
+- [RemeGen](#remegen)
+- [Simcere](#simcere)
+- [Genrix bio](#genrix-bio)
+- [Joyo Pharmatech](#joyo-pharmatech)
+- [Medshine Discovery](#medshine-discovery)
+- [Hansoh Pharma](#hansoh-pharma)
+- [VelaVigo](#velavigo)
+- [Degron Therapeutics](#degron-therapeutics)
+- [Chimagen Biosciences](#chimagen-biosciences)
+- [EpimAb](#epimab)
+- [Biosion](#biosion)
+- [Trinomab](#trinomab)
+- [Sciwind Biosciences](#sciwind-biosciences)
+- [Hutchmed](#hutchmed)
+- [Laekna](#laekna)
+- [LaNova Medicines](#lanova-medicines)
+- [Regor Therapeutics Group](#regor-therapeutics-group)
+- [Curon](#curon)
+- [Harbour Biomed](#harbour-biomed)
+- [Zai Lab](#zai-lab)
+- [Hangzhou Polymed](#hangzhou-polymed)
+- [Eccogene](#eccogene)
+- [Hengrui](#hengrui)
+- [Akeso](#akeso)
+- [Genfleet Therapeutics](#genfleet-therapeutics)
+- [Huadong Medicine](#huadong-medicine)
+- [Hangzhou DAC Biotechnology](#hangzhou-dac-biotechnology)
+- [Biokin Pharma](#biokin-pharma)
+- [Alphamab](#alphamab)
+- [Jemincare Pharmaceutical](#jemincare-pharmaceutical)
+- [Mabwell](#mabwell)
+- [Highlightll Pharma](#highlightll-pharma)
+- [Mabworks Biotech](#mabworks-biotech)
+- [FutureGen](#futuregen)
+- [Argo Biopharma](#argo-biopharma)
+- [Shanghai Bao Pharma](#shanghai-bao-pharma)
+- [Ascentage Pharma](#ascentage-pharma)
+- [Betta Pharma](#betta-pharma)
+- [Medilink Therapeutics](#medilink-therapeutics)
+- [Huabo Biopharm](#huabo-biopharm)
+- [Innovent](#innovent)
 
 ### [Keymed Biosciences](http://en.keymedbio.com/)
 - KeyMed is maybe the flagship licensor of assets to the U.S., even earning an Endpoints feature [article](https://endpts.com/how-keymed-steered-the-china-to-us-newco-model-in-biotech/).
@@ -131,8 +188,12 @@ Chinese biotech is much bigger than I thought. Company after company -- you thin
 ### Joyo Pharmatech
 - They licensed a panRAS inhibitor [ERAS-0015](https://endpts.com/erasca-revamps-pipeline-laying-off-staff-as-it-licenses-cancer-drugs-from-china-and-nabs-160m/) to Erasca for $12.5 million upfront, up to $176.5 million in milestones, and royalties. 
 
-### Medshine Discovery (Parent is [Huapont Pharmaceuticals](https://en.huapont.cn/))
+### Medshine Discovery 
+- Parent is [Huapont Pharmaceuticals](https://en.huapont.cn/)
 - They licensed a selective KRAS inhibitor [ERAS-4001](https://endpts.com/erasca-revamps-pipeline-laying-off-staff-as-it-licenses-cancer-drugs-from-china-and-nabs-160m/) to Erasca for $10 million upfront and $160 million in milestones. 
+
+
+
 
 ### [Hansoh Pharma](https://www.hspharm.com/)
 - Hansoh is one of China's largest pharma companies and was founded in 1995. 
