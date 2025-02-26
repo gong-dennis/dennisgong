@@ -13,7 +13,7 @@ description: "review of 54 companies and pipelines"
 
 ![overview](overview.jpg "overview")
 
-The goal today is to review Chiense biotech companies. A lot has been written about the concept of Chinese biotech, speculation on why they are 'winning', how they are licensing so many drugs to U.S. based companies, and general discussion about what it means for U.S. biotech. [The Economist](https://www.economist.com/business/2025/02/16/its-not-just-ai-chinas-medicines-are-surprising-the-world-too), [Wall St. Journal](https://www.wsj.com/health/pharma/the-drug-industry-is-having-its-own-deepseek-moment-68589d70), [CNN](https://www.cnn.com/2025/02/21/business/video/china-biotech-akeso-cancer-drug-ivonescimab-digvid), [Biopharma Dive](https://www.biopharmadive.com/news/biotech-us-china-competition-drug-deals/737543/), [Timmerman Report](https://timmermanreport.com/2025/01/china-is-here-to-stay-as-a-leader-on-the-global-biotech-stage/), and [STAT news](https://www.statnews.com/2025/01/15/jpm-conference-biotech-industry-excited-anxious-chinese-biotech-deals/) all had articles wtihin the past month. Biotech is becoming different than many other industries (e.g. tech) where innovation happens in the U.S., and manufacturing gets outsourced to China. Instead, innovation is getting done in China, and molecules are licensed to the U.S. for clinical trials! 
+The goal today is to review Chiense biotech companies. A lot has been written about the concept of Chinese biotech, speculation on why they are 'winning', how they are licensing so many drugs to U.S. based companies, and general discussion about what it means for U.S. biotech. [The Economist](https://www.economist.com/business/2025/02/16/its-not-just-ai-chinas-medicines-are-surprising-the-world-too), [Wall St. Journal](https://www.wsj.com/health/pharma/the-drug-industry-is-having-its-own-deepseek-moment-68589d70), [CNN](https://www.cnn.com/2025/02/21/business/video/china-biotech-akeso-cancer-drug-ivonescimab-digvid), [Biopharma Dive](https://www.biopharmadive.com/news/biotech-us-china-competition-drug-deals/737543/), [Timmerman Report](https://timmermanreport.com/2025/01/china-is-here-to-stay-as-a-leader-on-the-global-biotech-stage/), and [STAT news](https://www.statnews.com/2025/01/15/jpm-conference-biotech-industry-excited-anxious-chinese-biotech-deals/) all had articles within the past month. Biotech is becoming different than many other industries (e.g. tech) where innovation happens in the U.S., and manufacturing gets outsourced to China. Instead, innovation is getting done in China, and molecules are licensed to the U.S. for clinical trials! 
 
 This all comes in the wake of the [Biosecure Act](https://www.science.org/content/article/bill-targeting-chinese-biotechs-worries-u-s-researchers), which prohibits federal funds from going to five specific Chinese companies — BGI, MGI, WuXi Biologics, Wu Xi AppTec, and Complete Genomics — beginning in 2032. 
 
@@ -382,7 +382,7 @@ Landing pages to die for. High Impact (Breakthrough)
 
 2. Harbour Biomed had this point that most validated targets in I/O (PD-1/CTLA-4) are part of the B7 family. PD-L1 is B7-H1 and B7-1 is the major ligand mediating CTLA-4 localization. I'm curious how the B7H7 antibody HBM1020 does in trials.
 
-3. Cilta-cel of couse 
+3. Cilta-cel of course 
 
 4. BDCA2 for SLE is a new target I've never heard about. Duality Bio is developing an antibody drug conjugate (BD-2304).
 
