@@ -94,12 +94,12 @@ Chinese biotech is much bigger than I thought. Company after company -- you thin
 - Also in Jan 2025, GSK lead a \$120 mn funding round for [Ouro Medicines](https://endpts.com/with-120m-gsk-allied-ouro-medicines-throws-its-hat-into-burgeoning-tce-ring/), which starts with a BCMA TCE OM336/CM336. Licensing deal terms were \$16 million upfront and \$610 million in milestones.
 - Also in Jan 2025, Timberlyne launched with \$180 million and a [CD38](https://endpts.com/another-biotech-scoops-up-asset-from-china-based-keymed-and-nabs-180m/) antibody from Keymed. Terms were $30 million in near-term payments and up to $337.5 million total in milestones, plus 25% stake in the new company.
 - In Jul 2024, [Belenos Biosciences](https://endpts.com/orbimed-forms-biotech-with-assets-from-china-based-keymed-enlists-former-biohaven-exec-as-ceo/) emerged as an Orbimed autoimmunity newco with rights to two drugs (CM512 and CM536) with undisclosed MOA. Terms were \$15 million upfront and up to an additional \$170 million milestones, plus a 30% equity stake in the new company.
-- AstraZeneca [licensed](https://www.astrazeneca.com/media-centre/press-releases/2023/astrazeneca-enters-license-agreement-with-kym-biosciences-for-cmg901-a-claudin-182-antibody-drug-conjugate.html#!) CMG901 in Feb 2023 for \$63 mn upfront and up to \$1.1 bn in milestones. 
+- AstraZeneca [licensed](https://www.astrazeneca.com/media-centre/press-releases/2023/astrazeneca-enters-license-agreement-with-kym-biosciences-for-cmg901-a-claudin-182-antibody-drug-conjugate.html#!) CMG901, a CLDN18 ADC, in Feb 2023 for \$63 mn upfront and up to \$1.1 bn in milestones. 
 - Outside of these deals, Keymed also has a GPC3 TCE, a CDH17 ADC, a GPRC5D TCE, an a-beta antibody, and a CCR8 antibody partnered with Innocare.
 
 ### [CSPC Pharmaceuticals Group](https://www.cspc.com.hk/en/global/home.php)
 - CSPC is a large pharmaceutical manufacturing company that has subsidiaries doing drug development. 
-- Of note, they licensed a CLDN18 ADC ([EO-3021](https://www.oncologypipeline.com/apexonco/claudin182-expression-clouds-elevations-big-reveal)) to Elevation Oncology and a Nectin 4 ADC ([SYS6002](https://www.globenewswire.com/news-release/2025/02/14/3026580/0/en/CRB-701-SYS6002-A-Next-Generation-Nectin-4-Targeting-ADC-Demonstrates-Encouraging-Safety-and-Broader-Efficacy-in-Phase-1-Study-in-the-US-and-UK-Presented-at-ASCO-GU-2025.html)) to Corbus
+- Of note, they licensed a CLDN18 ADC ([EO-3021](https://www.oncologypipeline.com/apexonco/claudin182-expression-clouds-elevations-big-reveal)) to Elevation Oncology (\$27 million upfront, up to \$1.148 billion in milestones) and a Nectin 4 ADC ([SYS6002](https://www.globenewswire.com/news-release/2025/02/14/3026580/0/en/CRB-701-SYS6002-A-Next-Generation-Nectin-4-Targeting-ADC-Demonstrates-Encouraging-Safety-and-Broader-Efficacy-in-Phase-1-Study-in-the-US-and-UK-Presented-at-ASCO-GU-2025.html)) to Corbus (\$7.5 million upfront, \$680 million in milesstones)
 - [YS2302018](https://endpts.com/astrazeneca-makes-another-cardio-deal-betting-100m-on-china-companys-lipid-drug/) is a preclinical small molecule lipoprotein(a) disruptor that was licensed to AstraZeneca. Terms are \$100 million upfront and up to \$1.9 billion in milestones.
 - They have a ROR1 ADC in Ph1 (SYS6005) and an mRNA-LNP-based BCMA CAR-T therapy (SYS6020) that has obtained IND approval in China for multiple myeloma, systemic lupus erythematosus, and myasthenia gravis.
 
@@ -153,7 +153,7 @@ Chinese biotech is much bigger than I thought. Company after company -- you thin
 - The one deal of note in 2023 was for [ARX788](https://ir.ambrx.com/news/news-details/2023/ACE-Breast-02-Pivotal-Phase-3-Study-of-Ambrxs-ARX788-for-the-Treatment-of-HER2-Positive-Metastatic-Breast-Cancer-Achieves-Positive-Results/default.aspx), a HER2 ADC which was licensed to Ambryx in Mar 2023. Unfortunately, this molecule has a lot of ocular [tox](https://www.nature.com/articles/s41392-025-02149-3).
 
 ### [Leads Biolabs](https://en.leadsbiolabs.com/)
-- [LBL-051] is a trispecific T cell engager was licensed to a newco started by Aditum Bio called [Oblenio Bio](https://endpts.com/joe-jimenezs-latest-aditum-company-lines-up-t-cell-engager-from-china/) in Nov 2024. 
+- [LBL-051] is a trispecific T cell engager was licensed to a newco started by Aditum Bio called [Oblenio Bio](https://endpts.com/joe-jimenezs-latest-aditum-company-lines-up-t-cell-engager-from-china/) in Nov 2024. The terms are \$35 million upfront and \$579 in milestone payments.
 - Their PD-L1/4-1BB bispecific is pretty far in clinical development, reaching Ph3 in neuroendocrine carcinomas. They have two TCEs against MUC16 and GPRC5D in Ph1. There is a LAG3 mAb partnered with BeiGene in Ph2. The last interesting one is a PD-1/TGFbR2 fusion protein in Ph1 (LBL-019). 
 
 ![leads](leads.jpg "leads")
@@ -191,9 +191,6 @@ Chinese biotech is much bigger than I thought. Company after company -- you thin
 ### Medshine Discovery 
 - Parent is [Huapont Pharmaceuticals](https://en.huapont.cn/)
 - They licensed a selective KRAS inhibitor [ERAS-4001](https://endpts.com/erasca-revamps-pipeline-laying-off-staff-as-it-licenses-cancer-drugs-from-china-and-nabs-160m/) to Erasca for $10 million upfront and $160 million in milestones. 
-
-
-
 
 ### [Hansoh Pharma](https://www.hspharm.com/)
 - Hansoh is one of China's largest pharma companies and was founded in 1995. 
