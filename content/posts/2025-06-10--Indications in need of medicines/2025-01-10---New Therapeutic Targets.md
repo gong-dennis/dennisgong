@@ -1,6 +1,6 @@
 ---
 title: "Developing new medicines (Part I)"
-date: "2025-07-10T12:00:00.000Z"
+date: "2025-06-30T12:00:00.000Z"
 template: "post"
 draft: False
 slug: "/blog/newmedicines/"

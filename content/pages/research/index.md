@@ -6,7 +6,7 @@ template: "page"
 ##### Please see my [Google Scholar](https://scholar.google.com/citations?user=mlArGDAAAAAJ&hl=en) for an updated list of research presentations and publications.
 
 ### This Site:
-June 2025 - [New Medicines I](https://www.dennisgong.com/blog/newmedicines/)
+June 2025 - [New Medicines I](https://www.dennisgong.com/blog/newmedicines/) <br />
 May 2025 - [AACR 2025](https://www.dennisgong.com/blog/AACR25/) <br />
 April 2025 - [Questions for Companies](https://www.dennisgong.com/blog/biotechquestions/) <br />
 March 2025 - [Spatial Omics](https://www.dennisgong.com/blog/spatialomics/) <br />
