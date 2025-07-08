@@ -11,9 +11,14 @@ tags:
 description: "heuristics for indication selection in I&I"
 ---
 
-The goal for today is to develop and apply a pipeline for understanding the landscape of drug targets for a given indication. This is going to be a two part series, where in this article, I will tell you where the unmet needs are, and in the next, hopefully posted next month, I'll tell you what kinds of drugs can be developed right now to make a difference.
+The goal for today is to develop and apply a pipeline for understanding the landscape of drug targets for any given indication. This is going to be a two part series. In this article, I will tell you where the unmet needs are, and in the next, hopefully posted next month, I'll tell you what kinds of drugs can be developed right now to make a difference.
 
-Two questions that I always want to know the answers to when getting up to speed are: 1. What are the major recent and upcoming therapeutic developments? and 2. What are the most biological hypotheses waiting for answers from pivotal clinical trials? In other words, what are the targets and what are the results of modulating them? I'll answer each of these questions in a short summary of key ideas to think about when evaluating each of the 61 indications covered in this post.
+Two questions that I always want to know the answers to when getting up to speed are: 
+
+1. What are the major recent and upcoming therapeutic developments? 
+2. What are the most biological hypotheses waiting for answers from pivotal clinical trials? 
+
+In other words, what are the targets and what are the results of modulating them? I'll answer each of these questions in a short summary of key ideas to think about when evaluating each of the 60 indications covered in this post.
 
 ![Defining the therapeutic frontier](beijing.jpg "Defining the therapeutic frontier")
 
@@ -35,7 +40,7 @@ Broadly speaking, companies have built value by being best in class in 'mature' 
 
 How do we identify targets? Here is a sampling of resources to cover the first 50% of work: 
 
-### Genetic association: 
+## Genetic association: 
 
 Enough has been written about the value of human genetics evidence for evaluating a target. This Atlas "From the trenches" [article](https://lifescivc.com/2024/04/deconstructing-the-diligence-process-an-approach-to-vetting-new-product-theses/) from Aimee Raleigh and Robert Plenge's [blog](https://www.plengegen.com/) are great starting points.
 
@@ -47,7 +52,7 @@ As serum proteomics offerings continue to expand (e.g. Olink, SomaScan, Nomic, e
 
 In cancer, functional genomic profiling (e.g. the [Cancer Dependency Map](https://depmap.org/portal/)) can be used to brute force your way to drug targets. However, I haven't seen this approach be successful outside oncology, and even within oncology, everyone has this data. This is no longer useful as a primary resource for novelty.
 
-### The public domain
+## The public domain
 
 Outside of the academic work one can do to identify targets from first principles, publicly accessible resources provide critical 'color' on how the real world performance of a drug is, or whether there is excitement from researchers about a given mechanism (which may reflect unpublished findings). 
 
@@ -59,7 +64,7 @@ Twitter is an evergreen resource for news, opinions, and debate.
 
 LLM assisted [search](https://www.nature.com/articles/s41591-024-03233-x) for rare diseases or drug repurposing has in theory progressed, though practically I have no idea how to use or evaluate these tools. There are all sorts of data leakage issues and obfuscations that probably aren't answerable. It is true in my experience however, that large language models have improved significantly. ChatGPT's o3 model in particular helped tremendously in writing this piece and while it still hallucinates (it came up with irsegedibep as a long half life TSLP antibody), it is able to surface new information that would have taken me longer to find otherwise. Prompting strategy should be focused on how to reach 'high-value' areas of the latent space (e.g. using jargon in prompts to demonstrate expertise).
 
-#### Clinical trials
+### Clinical trials
 
 I could wax poetic about NEJM, the Lancet, or whatever else your favorite journal is. Cutting to the chase -- the fact of the matter is that clinical trial literacy is skill #1. What is the trial population, what was the trial protocol, how did patients flow through/drop out of the trial are all just as important as what the topline results were. If you want to really understand how well a drug works, don't make any inferences until you see the supplementary information. Plot the data yourself, count the lines on the spider plot, and never trust a press release.
 
@@ -69,13 +74,13 @@ For getting up to speed, borrow a doctor friend's UpToDate account (though LLMs 
 
 Where to find alpha? Off label use of drugs (e.g. Dupixent) has uncovered efficacy across a much broader set of both atopic and non-atopic diseases that were not marketed as the initial TAM. Smart Pubmed queries can point you to tons of studies conducted by pharma, where you can read discussion sections for how industry scientists (or collaborating physicians) view the future development path. 
 
-#### Company filings
+### Company filings
 
 Companies are required to describe the competitive landscape in quarterly and annual reports. Investor presentations will also often have 'prettier' versions of competitive landscape graphics.
 
 If your organization gives access to Refinitiv/Bloomberg or any other sell-side news source, those reports can contain some useful information.
 
-#### Scientific literature
+### Scientific literature
 
 It really is the wild wild west out there. You can find supporting evidence for whatever you want so don't take anything too seriously. Depending on your level of scientific literacy, reading too much literature can ironically be counterproductive for your diligence process, especially with LLMs now. That being said, I'll offer a few points worth digging into:
 
@@ -86,7 +91,7 @@ It really is the wild wild west out there. You can find supporting evidence for 
 
 ## Table of Contents
 
-On to the content. There are 10 broader indication areas I categorized within I&I, and a total of 61 individual indications. A summary is provided up front and brief concluding thoughts are at the end. 
+On to the content. There are 10 broader indication areas I categorized within I&I, and a total of 60 individual indications. A summary is provided up front and brief concluding thoughts are at the end. 
 
 Why I&I? I know nothing about cardiology or neurology. My PhD is in cancer biology but cancer is uninteresting to me from a therapeutic development perspective. There are so many people working on it and so many clinical trials already. The pace of improvement, aside from like GBM, is rapidly making the outlook for patients better. If truly interested, I wrote an [article](https://www.dennisgong.com/blog/CancerTypes/) more than a year ago covering all the major cancer types and treatment regimens. Much of it is outdated, which speaks to the pace of progress.
 
@@ -121,16 +126,16 @@ My summaries below are heuristics meant to be taken 'as is' -- definitively inco
 - [Rheumatology & Connective-Tissue Diseases](#rheumatology--connective-tissue-diseases)
   - [Rheumatoid Arthritis (RA)](#rheumatoid-arthritis-ra)
   - [Psoriatic Arthritis (PsA)](#psoriatic-arthritis-psa)
-  - [Axial Spondyloarthritis (axSpA)](#axial-spondyloarthritis-axspa)
+  - [Axial Spondyloarthritis (AxSpA)](#axial-spondyloarthritis-axspa)
     - [Ankylosing Spondylitis (AS)](#ankylosing-spondylitis-as)
-  - [Osteoarthritis](#osteoarthritis)
+  - [Osteoarthritis (OA)](#osteoarthritis-oa)
   - [Polymyalgia Rheumatica (PMR)](#polymyalgia-rheumatica-pmr)
   - [Still’s Disease](#stills-disease)
   - [Systemic Lupus Erythematosus (SLE)](#systemic-lupus-erythematosus-sle)
   - [Systemic Sclerosis (SSc)](#systemic-sclerosis-ssc)
   - [Relapsing Polychondritis](#relapsing-polychondritis)
   - [Vasculitides](#vasculitides)
-  - [Myositis / Anti-synthetase Syndrome](#myositis)
+  - [Myositis](#myositis)
   - [Recurrent Pericarditis](#recurrent-pericarditis)
 
 - [Allergy & Type-2-Driven Disorders](#allergy--type-2-driven-disorders)
@@ -147,7 +152,7 @@ My summaries below are heuristics meant to be taken 'as is' -- definitively inco
   - [Anti-synthetase syndrome](#anti-synthetase-syndrome)
 
 - [Nephrology & Glomerular Disease](#nephrology--glomerular-disease)
-  - [Minimal Change Disease](#minimal-change-disease)
+  - [Minimal Change Disease (MCD)](#minimal-change-disease-mcd)
   - [Membranous Nephropathy (MN)](#membranous-nephropathy-mn)
   - [IgA Nephropathy (IgAN)](#iga-nephropathy-igan)
   - [Lupus Nephritis (LN)](#lupus-nephritis-ln)
@@ -164,8 +169,8 @@ My summaries below are heuristics meant to be taken 'as is' -- definitively inco
   - [Hemochromatosis](#hemochromatosis)
 
 - [Neuro-Immunology](#neuro-immunology)
-  - [Multiple Sclerosis](#multiple-sclerosis)
-  - [Neuromyelitis Optica](#neuromyelitis-optica)
+  - [Multiple Sclerosis (MS)](#multiple-sclerosis-ms)
+  - [Neuromyelitis Optica (NMOSD)](#neuromyelitis-optica-nmosd)
   - [Myasthenia Gravis (MG)](#myasthenia-gravis-mg)
   - [Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)](#chronic-inflammatory-demyelinating-polyneuropathy-cidp)
 
@@ -173,7 +178,6 @@ My summaries below are heuristics meant to be taken 'as is' -- definitively inco
   - [Graves Disease](#graves-disease)
   - [IgG4-Related Disease (IgG4-RD)](#igg4-related-disease-igg4-rd)
   - [Primary Sjögren’s Syndrome (SS)](#primary-sjogrens-syndrome-ss)
-  - [Chronic Prostatitis](#chronic-prostatitis)
 
 ## What are unmet needs?
 
@@ -185,7 +189,7 @@ If looking for the TLDR, I think there are significant unmet needs (unaddressed 
 4. Geographic atrophy (cell therapy)
 5. Bullous Pemphigoid (some Kit combo w/ topical steroids)
 6. Osteoarthritis (Nav1.7?)
-7. Psoriatic arthritis / Axial Spondylarthritis / Ankylosing spondylitis (Tyk2 / IL-17A/F combo, maybe make sweeping)
+7. Psoriatic arthritis / Axial Spondyloarthritis / Ankylosing spondylitis (Tyk2 / IL-17A/F combo, maybe make sweeping)
 8. IPF (IL-11)
 9. Sjogren's Syndrome (IRF5)
 10. Polymyalgia Rheumatica (IL-1 inhibition)
@@ -218,7 +222,7 @@ Still, the addressable U.S. population is 2–3 million (0.8-1.1 % prevalence) a
 
 Vitiligo is potentially a 'good' indication for drug development because you can rapidly see skin improvements and the risk for placebo response isn't as high (repigmentation is an objective endpoint, not a symptom scale). 
 
-One new mechanism, which I think is __the__ critical experiment, is targeting the IL-15 / CD122 axis, which is being pursued by Teva/Forte/Anaptys/Incyte. The rationale is to deplete tissue resident cytotoxic T/NK cells by blocking IL-15 and in CD122's case IL-2, which are both responsible for maintenance of these cell types. Auremolimab which Incyte acquired from its acquisition of Villaris is the furthest along (Ph2), and several patients in forums are quite excited. $VYNE has another approach Repibresib which is a BET inhibitor in Ph2 trials. I'm not going to pretend to understand the biology here of how BET inhibition inhibits NFKB (seems super hand-wavey if you ask me), but there seems to be a nice dose response in Ph1b trials plus some nice preclinical data. 
+One new mechanism, which I think is ___the___ critical experiment, is targeting the IL-15 / CD122 axis, which is being pursued by Teva/Forte/Anaptys/Incyte. The rationale is to deplete tissue resident cytotoxic T/NK cells by blocking IL-15 and in CD122's case IL-2, which are both responsible for maintenance of these cell types. Auremolimab which Incyte acquired from its acquisition of Villaris is the furthest along (Ph2), and several patients in forums are quite excited. $VYNE has another approach Repibresib which is a BET inhibitor in Ph2 trials. I'm not going to pretend to understand the biology here of how BET inhibition inhibits NFKB (seems super hand-wavey if you ask me), but there seems to be a nice dose response in Ph1b trials plus some nice preclinical data. 
 
 ### Alopecia Areata (AA)
 
@@ -387,9 +391,9 @@ Psoriatic arthritis differs from rheumatoid arthritis in that the aetiology much
 
 This is a $12 billion market where therapies still only have middling efficacy. The major classes include TNFa, IL-17/23, JAKs, PDE-4, abatacept, and soon TYK2. In the lowest responder bar, ACR20, the most effective classes (TNFa, IL-17/23, JAK) only reach ~55-75% response rates. Hitting both IL-17A and IL-17F is more effective than IL-17A alone. New mechanisms that work and enable stacking will be able to penetrate a massive market. Interestingly, this market has not seen basically any biotech penetration except Oruka, which is developing a me-better IL-17A/F.
 
-### Axial Spondylarthritis (AxSpA)
+### Axial Spondyloarthritis (AxSpA)
 
-Axial refers to an axis of rotation and Spondyl refers to the spine. Axial spondylarthritis is inflammation of tendons, joints, and ligaments, typically manifesting at the sacroiliac joints and spine (ie. chronic back pain). 0.9-1.4% of the overall population have it, so it is similar to RA in terms of prevalence. In its extreme form, the disease can lead to the bony fusion of vertebral joints. Cardiovascular disease, depression, and fatigue are all associated with AxSpA, so significant morbidity is associated. Also, hi. Median onset is 26 years old.
+Axial refers to an axis of rotation and Spondyl refers to the spine. Axial spondyloarthritis is inflammation of tendons, joints, and ligaments, typically manifesting at the sacroiliac joints and spine (ie. chronic back pain). 0.9-1.4% of the overall population have it, so it is similar to RA in terms of prevalence. In its extreme form, the disease can lead to the bony fusion of vertebral joints. Cardiovascular disease, depression, and fatigue are all associated with AxSpA, so significant morbidity is associated. Also, hi. Median onset is 26 years old.
 
 Humira seems to work pretty well according to patient forums, but only in ~60% of patients. If patients develop ADAs or run out of TNFa blockers, they can move on to IL-17A blockers like Cosentyx which are also approved. 
 
@@ -403,7 +407,7 @@ A Nature Medicine paper came out in 2023 describing a [prototype therapy](https:
 
 In addition to this precision approach, the typical gamut of IL-17s, TNFa, JAKs, etc all work to varying degrees. None are curative or get anywhere above the 50-60% efficacy range.
 
-### Osteoarthritis
+### Osteoarthritis (OA)
 
 Osteoarthritis will affect nearly 10% of the world population. It already costs Medicare/Medicaid more than \$185 billion. As drug indications go, thinking about and being able to improve osteoarthritis symptoms would be magic. This is a prototypical disease of aging, with the pathophysiology involving cell senescence and local sterile inflammation and 'wear and tear' of cartilage and breakdown. Obesity and weight gain in aging is significantly associated with the disease due to the excess load placed on knees. In fact, most of the GWAS hits are related to weight, and weight loss medications are highly effective at reducing OA symptoms. 
 
@@ -413,7 +417,7 @@ The approval bar admittedly is high. You need both structural modification plus 
 
 While the pipeline for this disease is barren, I'm excited about the opportunities for drug development. You have a disease where intraarticular injections are commonly performed, allowing you to play with pathways that might be toxic systemically and also to potentially get intraarticular biomarker measurements. So many people have it and suffer significantly, and the target space is clearly distinct from other rheumatological diseases so there is room to be creative. You can think about cell therapies that secrete FGF-18 and pain blocking antibodies, or drug depots to modulate the Wnt pathway over a more sustained window. Other animals that weigh a lot more seemingly have very robust joints, which we could study to understand whether there are specific protective features. One group at NYU made the fascinating discovery that [chondrocytes express the sodium channel Nav1.7](https://www.nature.com/articles/s41586-023-06888-7#Sec4) and that conditional deletion protects against OA and reduces pain.
 
-### Polymyalgia Rheumatica 
+### Polymyalgia Rheumatica (PMR)
 
 There was a great 'call to action' [article](https://www.sciencedirect.com/science/article/pii/S2665991325000955) that came out while I was writing this post. Written by David Lieu, a rheumatologist in Melbourne, he argues that PMR has been underestimated and understudied. IL-6 inhibition with the IL-6R antibody [sarilumab](https://www.nejm.org/doi/10.1056/NEJMoa2303452) is the only approved biologic, and most patients are managed chronically with steroids. While steroid doses are not acutely as high as other conditions, the chronic nature of them make the cumulative dose quite high. For whatever reason, it is difficult to taper off of steroids in PMR, and even in sarilumab's landmark NEJM paper, only 28% were able to remain in remission of steroids after a year of treatment, compared to 10% in the placebo group.
 
@@ -425,7 +429,7 @@ There are two presentations of this IL-1/18 driven systemic autoimmune disease. 
 
 Patients present with a high fever, rash, arthralgia, and sore throat. Steroids are given and tapered with an IL-1 blocker (Canakinumab or Anakinra). Tocilizumab or JAK inhibition can also be given if the response is inadequate. MACS needs to be managed separately with IFNg blockade. New therapeutic development for Still's is quite rich. Given the recent understanding that this is IL-18 driven, bispecifics combining IL-1b blockade with IL-18 (MAS825; Novartis) or systemic administration of IL-18BP (Tadekinig alfa) are both in Ph2 and Ph3 respectively. While most patients are controlled, there are still kids that die from inadequate control of MACS, and some who get erosive arthritis. 
 
-### Systemic Lupus Erethymatosus (SLE)
+### Systemic Lupus Erythematosus (SLE)
 
 330k patients in the U.S. have this disease. It slowly progresses into lupus nephritis, a devastating kidney disease.
 
@@ -489,7 +493,7 @@ The disease pathology involves mast cell activation, IgE and IgG autoantibodies,
 
 KIT, IgE, and IL-13 are already three blockbuster medicines that haven't penetrated CSU in monotherapy, let alone in combinations. Hard to say the unmet need is pressing until these large Ph3 experiments read out.
 
-### Severe Asthma: 
+### Severe Asthma
 
 Just like in COPD, there is the T2 endotype which is driven by Th2 inflammation and responds to biologics like Dupixent, IL-5, TSLP, and IgE blockers, and a non-Th2 endotype (~15% of patients) which does not have elevated cytokines or eosinophil biomarkers and may be driven by alternative biology, such as chronic infection, smoking, neutrophilic infiltrate, etc. It is another massive market where there is room for multiple biologics to compete and have patients cycle through if there is lack of response. Better biomarkers are being developed to better stratify patients. 
 
@@ -515,7 +519,7 @@ Oral immunotherapy as antigen sensitization is the alternate approach, and this 
 
 ## Pulmonology & Interstitial Lung Disease 
 
-### Idiopathic Pulmonary Fibrosis (IPF): 
+### Idiopathic Pulmonary Fibrosis (IPF)
 
 IPF is another disease of old age where patients have difficulty breathing, painful cough, and a high infection rate. Patients have very short median overall survival of just 2.5-5 years, most commonly passing away due to respiratory failure -- a horrible way to die. Each year, there are 30-40k patients diagnosed, totalling a 100k overall prevalence in the U.S.
 
@@ -531,13 +535,13 @@ First line treatment is of course steroids, but long term steroid toxicity makes
 
 Endpoints for trials are improvement in lung function and reduction in steroid dose. Ultimately, drug development in sarcoidosis is very slow, making it a terrific opportunity for new drug development, provided there is a differentiated strategy. CSF1R inhibition? Seems like a terrific application for spatial -omics. 
 
-### Pulmonary Arterial Hypertension (PAH):
+### Pulmonary Arterial Hypertension (PAH)
 
 Pulmonary arterial hypertension is a lung disease of the pulmonary arterioles. Remodeling of arterioles increases pulmonary vascular resistance, making it difficult for the right ventricle to pump blood into the lungs for oxygenation. It is a progressive disease that eventually causes right heart failure and mortality (5 yr OS 71%) if untreated. It is a subset (1%) of the much larger indication of pulmonary hypertension, which affects roughly 40,000 patients annually. Distinct from PH, there are efficacious targeted therapies for PAH. These include prostacyclins (e.g. treprostinil), vasodilators, multitargeted TKIs (e.g. seralutinib, imatinib), PDE5 inhibitors, and endothelin receptor antagonists. Recently, sotatercept, a TGF beta / activin ligand trap, was approved by the FDA after Merck acquired the biologic from Acceleron. 
 
 Sotatercept is 'revolutionary' because it targets a genetically validated pathway (mutations in BMPR2 are found in many PAH patients), remodels vasculature (offering histologic improvement), and has significant improvement on clinical parameters (far more than other classes). The question is 'how far will sotatercept go', rather than 'will anything surpass sotatercept'.
 
-### Chronic Obstructive Pulmonary Disease (COPD): 
+### Chronic Obstructive Pulmonary Disease (COPD)
 
 COPD is the world's 4th leading cause of death (~3.5 million annually). It is commonly a consequence of chronic irritant exposure (e.g. environmental pollution, smoking, etc.) and because of this, largely preventable. 660 million people worldwide have it, with enrichment in low and middle income countries (only 15 million in the U.S.). Most patients are on bronchodilators and reassessed every 3-6 months. The most aggressive treatment regimen is inhaled corticosteroids (ICS), long acting beta agonists (LABA), and long acting muscarinic agonists (LAMA). Now, an inhaled PDE3/4 inhibitor, Ohtuvayre, developed by Verona Pharma, is being added to this regimen for patients still not adequately controlled. 
 
@@ -557,7 +561,7 @@ Kidney diseases have become somewhat boring in that everyone has woken up to B c
 
 Meanwhile, endothelin receptor antagonists and complement blockers compete for commercial share and utilization in patients with more moderate disease. Each of these indications offer an interesting case study on clinical trial positioning and commercial dynamics. With attractive markets but many competitive approved options, patients will have a much better outlook than just a few years ago.
 
-### Minimal Change Disease
+### Minimal Change Disease (MCD)
 
 This is an interesting nephrotic syndrome that is highly prevalent in both children and adults that surprisingly has minimal change in tissue organization on light microscopy (hence the name). 
 
@@ -601,7 +605,7 @@ There are a couple interesting problems in the CKD space:
 
 ## Hematology & Immuno-hematology
 
-### Immune Thrombocytopenic Purpura (ITP):
+### Immune Thrombocytopenic Purpura (ITP)
 
 Purpura are typically rounded collections of extravascular blood found in the skin. An immune thrombocytopenic purpura refers to a condition where autoimmunity against platelets causes reduced platelet counts (thrombocytopenia) and bleeding (purpura). There are on the order of 50k patients, split roughly 60/40 adults to children. 
 
@@ -609,7 +613,7 @@ First line treatment is either a short course of steroids or IVIg can stabilize 
 
 FcRn inhibitors are now approved, which enable platelet counts to rise within a week. Rilzabrutinib, Sanofi's BTK inhibitor, also has a positive Ph3 and may start being used in earlier lines. Overall, patients are doing quite well, with very low mortality outside the rare patients with persistently low counts and brain bleeds.
 
-### Thrombotic Thrombocytopenic Purpura (TTP): 
+### Thrombotic Thrombocytopenic Purpura (TTP)
 
 This is a very interesting condition driven by lack of functional activity of the von-Willebrand-factor–cleaving protease (ADAMTS13). This protease cleaves VWF (as advertised) which is involved in the early stages of clot formation by helping platelets aggregate. If you don't have ADAMTS13, you get a bunch of microthrombi, because nothing is breaking down clots. There is a congenital form (cTTP) from mutations in the ADAMTS13 gene (10% of cases), and an immune acquired (iTTP) form (90% of cases) where you get autoantibodies against ADAMTS13. If untreated, basically everyone dies, and even with therapy 10-15% of patients still die (mostly from thromboses).
 
@@ -627,7 +631,7 @@ High dose steroids are currently first line, though may not be for long, as most
 
 When it is cold, CAD patients get aggregation of certain cold sensitive antibodies (often IgM) that crosslink red blood cells and lead to autoimmune hemolytic anemia (above) via activation of the classic complement pathway. It is rare (affecting less than 10k in the U.S.), but this is a chronic disease so there is certainly a market.
 
-Sutimlimab, a C1s antibody that is given at a massive 6.5 or 7.5 __gram__ dose every two weeks I.V., is effective. This drug was sold by Sanofi for \$825 million to Recordati, an Italian pharmaceutical developer. However, I don't think anyone is happy with this dosing schedule and we can certainly do better here. Dianthus Therapeutics (\$DNTH) is trading at a \$524 mn market cap for a 60 day half-life C1s antibody. 
+Sutimlimab, a C1s antibody that is given at a massive 6.5 or 7.5 ___gram___ dose every two weeks I.V., is effective. This drug was sold by Sanofi for \$825 million to Recordati, an Italian pharmaceutical developer. However, I don't think anyone is happy with this dosing schedule and we can certainly do better here. Dianthus Therapeutics (\$DNTH) is trading at a \$524 mn market cap for a 60 day half-life C1s antibody. 
 
 In addition to inhibiting the complement pathway, B cell depletion can also be effective. Around half of CAD cases are due to a clonal lymphoproliferative disorder, sometimes even just overt B cell lymphoma or Waldenstrom's macroglobulinemia. 
 
@@ -661,7 +665,7 @@ The major effective treatment is weekly phlebotomy, though iron chelating medica
 
 ## Neuro-Immunology
 
-### Multiple Sclerosis
+### Multiple Sclerosis (MS)
 
 Multiple sclerosis is a CNS compartment autoreactive disorder against myelin. It occurs most often in women, with peak onset between 20-40 years old. Nearly 1 million people in the U.S. have it. Recent evidence that a subset of patients may have it because of prior Epstein Barr virus infection. Apparently there are viral epitopes that are similar to autoreactive epitopes in MS patients.
 
@@ -669,7 +673,7 @@ MS is a mature indication where the landscape of approved therapies is diverse w
 
 There are two major phenotypes: relapsing-remitting (RRMS) and primary-progressive (PPMS). RRMS is much more common (85% of patients) and is characterized by cyclical periods of acute attacks, followed by improvement, and recurrent attacks. PPMS in contrast is a more sustained and gradual worsening. The life expectancy gap continues to narrow, but patients still do not have disease reversing therapy. Perhaps in the future, we can see combinations of remyelinating therapy (which was not effective as a monotherapy) in combination with immunomodulatory therapy. Maybe we see something with vidofludimus calcium (\$IMUX; readout end of 2026). 
 
-### Neuromyelitis optica
+### Neuromyelitis optica (NMOSD)
 
 Autoantibodies attack the optic nerve and spinal cord by binding aquaporin-4 on astrocytes. This causes complement dependent cytotoxicity and demyelination. Median onset is late 30s early 40s, and the global addressable pool is 200k patients. 
 
@@ -717,13 +721,13 @@ Does all this sound complicated? Do you trust an LLM to digest this information 
 
 Expertise is still worth something. The most exciting position of the next 20 years, in a world where everything is druggable with whatever pharmacology you want, will be director of biology. Make sure you hire a good one.
 
-1. Reducing steroid toxicity is a major goal of basically every later line therapy. There are lots of parallels to oncology drug development, where steroids are this blunt chemo-analogous instrument, which are slowly becoming replaced by targeted therapy. In some cases improved disease understanding can allow you to get deeper remission by improving the therapeutic window. A really interesting approach being pioneered by Lifordi is the steroid ADC. 
+1. ___Reducing steroid toxicity___ is a major goal of basically every later line therapy. There are lots of parallels to oncology drug development, where steroids are this blunt chemo-analogous instrument, which are slowly becoming replaced by targeted therapy. In some cases improved disease understanding can allow you to get deeper remission by improving the therapeutic window. A really interesting approach being pioneered by Lifordi is the steroid ADC. 
 
-2. Sort of interesting that modulating macrophages just doesn't work. There are mechanisms for targeting T cells (abatacept/MMF/azathioprine/integrin class), B cells BTK/APRIL/BAFF/depletion, etc), eosinophils (IL-5), mast cells (KIT), pDCs (BDCA2), neutrophils (DPP1), and even neurons (IL-31R). Macrophages are like water. Always necessary, and takes the shape of whatever is happening locally. 
+2. Sort of interesting that ___modulating macrophages just doesn't work___. There are mechanisms for targeting T cells (abatacept/MMF/azathioprine/integrin class), B cells BTK/APRIL/BAFF/depletion, etc), eosinophils (IL-5), mast cells (KIT), pDCs (BDCA2), neutrophils (DPP1), and even neurons (IL-31R). Macrophages are like water. Always necessary, and takes the shape of whatever is happening locally. 
 
-3. Immune reset with B cell depletion / inhibition is incredible. In nearly every organ system, there is an autoimmune disorder driven by autoantibodies which is addressable by B cell depletion or inhibition. The fact that you can get *curative efficacy* in just a few doses of antibody, TCE, or cell therapy is very encouraging. It suggests that even in ostensibly unhealthy patients, homeostasis is still king. The generation and progression from autoantibodies into autoimmunity is stochastic and certainly not deterministic. It is reassuring that this 'bad luck' can be reversed.
+3. ___Immune reset with B cell depletion / inhibition is incredible___. In nearly every organ system, there is an autoimmune disorder driven by autoantibodies which is addressable by B cell depletion or inhibition. The fact that you can get *curative efficacy* in just a few doses of antibody, TCE, or cell therapy is very encouraging. It suggests that even in ostensibly unhealthy patients, homeostasis is still king. The generation and progression from autoantibodies into autoimmunity is stochastic and certainly not deterministic. It is reassuring that this 'bad luck' can be reversed.
 
-4. Indication expansion is the name of the game. The IL-6 class is a prototypical example where it is approved in RA, GCA, acute settings (e.g. CRS, COVID-19), NMOSD, SSc-ILD, and perhaps soon in cardiovascular disease. IL-13 went into AD, and now is in EoE, CRSwNP, asthma, COPD, PN, and CSU. The IL-17/23 class started in psoriasis and now is in psoriatic arthritis, IBD, AxPsA, HS, relapsing polychondritis, and maybe in PV. So on and so forth. What does this mean for new medicines? Never underestimate the size of the market. B cell depletion/inhibition, IL-1, Kit, TL1A, as well as speculative new mechanisms such as IL-11 and IL-15/CD122 (if they hit), can all become blockbusters. The value of a positive Ph2 trial is higher no where else.
+4. ___Indication expansion___ is the name of the game. The IL-6 class is a prototypical example where it is approved in RA, GCA, acute settings (e.g. CRS, COVID-19), NMOSD, SSc-ILD, and perhaps soon in cardiovascular disease. IL-13 went into AD, and now is in EoE, CRSwNP, asthma, COPD, PN, and CSU. The IL-17/23 class started in psoriasis and now is in psoriatic arthritis, IBD, AxPsA, HS, relapsing polychondritis, and maybe in PV. So on and so forth. What does this mean for new medicines? Never underestimate the size of the market. B cell depletion/inhibition, IL-1, Kit, TL1A, as well as speculative new mechanisms such as IL-11 and IL-15/CD122 (if they hit), can all become blockbusters. No where else is the value of a positive Ph2 trial is higher.
 
 ***
 

@@ -114,7 +114,6 @@ strong {
 
 ul {
   list-style: square;
-  @include margin-bottom(1);
 
   & li {
     margin-bottom: 5px;
