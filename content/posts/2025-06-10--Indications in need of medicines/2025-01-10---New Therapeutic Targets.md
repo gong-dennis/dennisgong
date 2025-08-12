@@ -732,3 +732,5 @@ Expertise is still worth something. The most exciting position of the next 20 ye
 ***
 
 The next post will be about exploiting the limited whitespace that is left for new therapeutic development. We now know the targets, and soon we will design the medicines to match. Thanks for reading.
+
+P.S. If you made it this far, check out this [post](https://www.dennisgong.com/blog/Rheum/) I wrote more than 3 years ago on this exact same subject (which tbh I totally forgot about). Nice to see that the PhD has made an impact.
