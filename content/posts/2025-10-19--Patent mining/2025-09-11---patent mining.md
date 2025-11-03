@@ -24,9 +24,7 @@ While I find that most scientists have their processes for digesting scientific 
 
 So today's question is: how do you systematically search the patent literature? Today, I will review 9,776 patents published in the last 6 months and see if we can discover any alpha.
 
-### How do patents in the life sciences actually work?
-
-I am in no ways a lawyer, but with ChatGPT I can LARP.
+## How do patents in the life sciences actually work?
 
 There are two major types of patents: method of use and composition of matter. The latter, are generally considered stronger. 
 
@@ -34,7 +32,7 @@ Not only do you need novelty and non-obviousness, you need 'enablement'. You nee
 
 After the filing of your patent, the exclusivity window is 20 years. This is separate from the publication date, which is when a patent is available online. Patents are meant to prevent commercialization of an invention, meaning that they are only enforcable if a drug utilizing an invention has reached the commercial stage. If a company uses a patent invention from another party, it is fine as long as the expiration date occurs prior to the drug being marketed.
 
-### My query:
+## My query:
 
 This query retrieves patents with a publication date in the last 6 months. Given today is Oct 20, 2025, the window is Apr 20, 2025 to Oct 20, 2025. I used ChatGPT to develop a query that searches for protein therapeutics, radiopharmaceuticals, and small molecule pharmaceuticals. It likely is missing some codes but with the tinkering I did, I found that this is at least a local maxima for optimizing signal to noise ratio.
 
@@ -62,7 +60,7 @@ AND EN_CL:(
 )
 AND DP:[TODAY-6MONTHS TO TODAY]
 
-### Patent analysis
+## Patent analysis
 
 ![Summary](summary.jpg)
 
@@ -84,7 +82,7 @@ Publication times following the initial patent filing seemed to have spikes at 6
 
 Notably, this is just a 6 month window into IP filings. However, big pharma is more active than other organizations, as expected. All of them are listed below:
 
-Bristol Myers Squibb:
+___Bristol Myers Squibb:___
 1. IL18BP agonist
 2. KRAS inhibitor plus Treg depleter
 3. LAG3 antibodies
@@ -92,7 +90,7 @@ Bristol Myers Squibb:
 5. Methods for improving bioavailability
 6. USP1 inhibitors
 
-Regeneron:
+___Regeneron:___
 1. CD109 inhibitors for bone mineral density
 2. KLHDC7B gene therapy
 3. MS4A6A for diseases with myeloid cell dysfunction
@@ -104,46 +102,46 @@ Regeneron:
 9. Bet v 1 antibodies for allergy
 10. Leptin receptor agonist antibody for increasing bone mass
 
-Alnylam:
+___Alnylam:___
 1. TMPRSS6 RNAi
 2. GRB14 RNAi
 3. APCS RNAi
 
-AstraZeneca:
+___AstraZeneca:___
 1. Type 1 interferon receptor inhibitor for lichen planus
 2. Type 1 interferon receptor inhibitor for chronic kidney disease
 3. Myeloperoxidase inhibitor for chronic inflammatory conditions
 4. TRPV4 inhibitors
 5. PNPLA3 ASO for genetic subset of MASH
 
-Eli Lilly:
+___Eli Lilly:___
 1. LAG3 agonist antibody
 2. S100A9 inhibiting antibody
 3. Urocortin-2 polypeptides
 4. RXFP1 agonists
 5. FARNESOID X RECEPTOR AGONISTS AND USES THEREOF
 
-Gilead:
+___Gilead:___
 1. STAT6 degraders
 2. Small molecule IL-17A inhibitors
 3. LPAR1 inhibitors
 4. KHK inhibitors
 
-GSK:
+___GSK:___
 1. Artemin inhibitors for headache
 
-Sanofi: 
+___Sanofi:___
 1. CD28 / OX40 bispecific antibodies
 2. Insulin formulation
 
-### What are some interesting patents?
+## What are some interesting patents?
 
 The whole goal of this exercise was to surface new IP that could potentially be a drug one day. However as you might expect, the patent literature also contains all sorts of other information that is 'interesting'.
 
 Broadly, the stuff I was interested in were 1: new target for new indication, and 2: new drug for same target/indication pair.  
 
 
-#### New target, new mechanism
+### New target, new mechanism
 
 [Broadwing Bio](https://broadwing.bio/) patent portfolio. This is a Maze ($MAZE) spinout focused on ophthalmology. CFHR and ANGPTL7 are targets.
 
@@ -199,7 +197,8 @@ Mediar therapeutics - WISP1 antibody and Ephrin B2 antibody
 
 HHIP-FC FUSION PROTEINS AND USES THEREOF - Berkeley
 
-#### New drug for same target/indication pair
+
+### New drug for same target/indication pair
 
 FAK degraders - BMS and a chinese company (Shanghai Berrybio). This is the optimal way of targeting FAK.
 
