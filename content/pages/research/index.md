@@ -6,8 +6,12 @@ template: "page"
 ##### Please see my [Google Scholar](https://scholar.google.com/citations?user=mlArGDAAAAAJ&hl=en) for an updated list of research presentations and publications.
 
 ### This Site:
-July 2025 - [New Medicines II](https://www.dennisgong.com/blog/19ideas/) <br />
-June 2025 - [New Medicines I](https://www.dennisgong.com/blog/newmedicines/) <br />
+November 2025 - [Assorted topics in biotech](https://www.dennisgong.com/blog/assorted/) <br />
+October 2025 - [Patent Mining](https://www.dennisgong.com/blog/patents/) <br />
+September 2025 - [Tectonic Therapeutic](https://www.dennisgong.com/blog/TECX/) <br />
+August 2025 - [Insights from serum proteomics](https://www.dennisgong.com/blog/serumproteomics/) <br />
+July 2025 - [New Medicines II - 19 ideas for new medicines](https://www.dennisgong.com/blog/19ideas/) <br />
+June 2025 - [New Medicines I - heuristics for indication selection in I&I](https://www.dennisgong.com/blog/newmedicines/) <br />
 May 2025 - [AACR 2025 Review](https://www.dennisgong.com/blog/AACR25/) <br />
 April 2025 - [Questions for Biotech Companies](https://www.dennisgong.com/blog/biotechquestions/) <br />
 March 2025 - [Spatial Omics Commentary](https://www.dennisgong.com/blog/spatialomics/) <br />
