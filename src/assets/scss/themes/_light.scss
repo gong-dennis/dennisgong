@@ -1,6 +1,5 @@
 @use "sass:color";
-@import "../variables";
-
+@use "../variables" as *;
 :root,
 :after,
 :before {

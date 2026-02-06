@@ -66,8 +66,8 @@ export default {
             query: `
               {
                 allMarkdownRemark(
-                  limit: 1000,
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  limit: 1000
+                  sort: { frontmatter: { date: DESC } }
                   filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
                 ) {
                   edges {
@@ -188,13 +188,18 @@ export default {
         },
       },
     },
-    {
-      resolve: "@sentry/gatsby",
-      options: {
-        dsn: process.env.SENTRY_DSN,
-        tracesSampleRate: 1,
-      },
-    },
+    ...(process.env.SENTRY_AUTH_TOKEN
+      ? [
+          {
+            resolve: "@sentry/gatsby",
+            options: {
+              dsn: process.env.SENTRY_DSN,
+              tracesSampleRate: 1,
+              authToken: process.env.SENTRY_AUTH_TOKEN,
+            },
+          },
+        ]
+      : []),
     "gatsby-plugin-image",
     "gatsby-plugin-catch-links",
     "gatsby-plugin-optimize-svgs",
