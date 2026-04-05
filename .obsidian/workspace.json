@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "6afdd5660ca0ab6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8852ff094da2c526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2325207c9e9b0a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2026-04-21--ADC payloads/2026-04-21---ADC payloads.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-21---ADC payloads"
+            }
+          },
+          {
+            "id": "92ac2a3dfb0f454c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2026-03-20--Vascular biology/2026-04-20---Fibrosis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-20---Fibrosis"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a8a862eed04a58b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4902bc3f6f765044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0d182a84ebebbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2b9cd978179e09d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93d39244b5b36732",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a3f853ed85fcad2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f8b72a85acbd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282c71f0f7924c72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/2026-03-20--Vascular biology/2026-04-20---Fibrosis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-04-20---Fibrosis"
+            }
+          },
+          {
+            "id": "9637a3746929a3f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/2026-03-20--Vascular biology/2026-04-20---Fibrosis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-04-20---Fibrosis"
+            }
+          },
+          {
+            "id": "b68cb1f91e786b06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28b3f406f8136a2f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5e2aefc64ed0a270",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/2026-03-20--Vascular biology/2026-04-20---Fibrosis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-04-20---Fibrosis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "92ac2a3dfb0f454c",
+  "lastOpenFiles": [
+    "public/page-data/blog/fibrosis/page-data.json",
+    "public/page-data/blog/fibrosis",
+    "public/page-data/blog",
+    "public/static/17156bc41e7bff5ed0e262acbfa054e8/4aaaf/photo.avif",
+    "public/static/17156bc41e7bff5ed0e262acbfa054e8/4aaaf",
+    "public/page-data/index/page-data.json",
+    "public/page-data/index",
+    "public/page-data/404.html/page-data.json",
+    "public/page-data/404.html",
+    "public/page-data/dev-404-page/page-data.json",
+    "public/page-data/dev-404-page",
+    "public/page-data/sq/d/63107425.json",
+    "public/favicon-32x32.png",
+    "public/icons/icon-512x512.png",
+    "public/icons/icon-384x384.png",
+    "public/icons/icon-256x256.png",
+    "public/icons/icon-96x96.png",
+    "public/icons/icon-72x72.png",
+    "public/icons/icon-48x48.png",
+    "public/icons/icon-192x192.png",
+    "public/icons/icon-144x144.png",
+    "content/posts/2026-04-21--ADC payloads/2026-04-21---ADC payloads.md",
+    "content/posts/2026-03-20--Vascular biology/2026-04-20---Fibrosis.md",
+    "content/posts/2026-04-20--Fibrosis/2026-03-20---VascularBiology.md"
+  ]
+}
