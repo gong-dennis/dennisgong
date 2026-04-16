@@ -34,8 +34,7 @@ There are several technical requirements to make a good payload:
 4. A major mechanism of resistance not only for ADCs but also other chemotherapies is upregulation of drug efflux pumps like ABCB1 (P-gp). An important design consideration for next generation payloads, especially those used in later line settings is whether the payload is a P-gp substrate. Ideally, the payload is unaffected by drug efflux pumps.
 
 Using DepMap screening data (hundreds of cancer cell lines screened with hundreds of drugs), I plotted the most potent 40 compounds both overall, and in a 'difficult to treat' tumor. Camptothecin (TOPOi) is pretty high up, but there are certainly other mechanisms that could be explored and also offer high potency. Proteasome inhibitors, HDAC inhibitors, anthracyclines, and more. When you use an LLM to search these against just the potency and P-gp substrate filter, very few actually come out. This highlights the need for further medicinal chemistry optimization, but also shows that there is a lot of green space!
-
-![[poisons.jpg]]
+ ![Poisons](poisons.jpg "Poisons")
 ### Novel payloads
 
 It is now somewhat well understood that TOPO1 inhibitors are the 'best' payloads. Enhertu, a HER2 targeted, DXd payload ADC showed clear superiority over a microtubule inhibitor payload ADC in Kadcyla. If a microtubule inhibitor payload has worked in an indication, you better believe that there is a next generation TOPO1 in the pipeline. Now, basically every new ADC target antigen is developed first with a TOPO1 payload, and the majority of new studies are with some sort of exatecan derivative. 
