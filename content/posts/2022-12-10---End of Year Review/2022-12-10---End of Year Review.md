@@ -2,7 +2,7 @@
 title: "End of Year Review"
 date: "2022-12-22T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/EOY2022/"
 category: "Personal"
 tags:

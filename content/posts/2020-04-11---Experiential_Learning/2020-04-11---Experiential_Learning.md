@@ -2,7 +2,7 @@
 title: "Experiential Learning"
 date: "2020-04-11T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/learning/"
 category: "Education"
 tags:

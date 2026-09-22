@@ -2,7 +2,7 @@
 title: "Random Thoughts From April Part 2"
 date: "2020-04-24T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/April2/"
 category: "Education"
 tags:

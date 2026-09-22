@@ -2,7 +2,7 @@
 title: Strong Opinions Loosely Held
 date: "2019-12-24T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/thoughts/"
 category: "Thought"
 tags:

@@ -2,7 +2,7 @@
 title: "What has hapened to the null hypothesis?"
 date: "2023-09-24T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/NullHypothesis/"
 category: "Life Sciences"
 tags:

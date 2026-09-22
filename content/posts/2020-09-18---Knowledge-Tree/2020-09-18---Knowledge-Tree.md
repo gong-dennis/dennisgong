@@ -2,7 +2,7 @@
 title: "Knowledge Tree"
 date: "2020-09-18T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Knowledge_Tree/"
 category: "Thoughts"
 tags:

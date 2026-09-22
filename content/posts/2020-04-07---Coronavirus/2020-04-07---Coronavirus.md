@@ -2,7 +2,7 @@
 title: "COVID-19"
 date: "2020-04-07T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/COVID-19/"
 category: "Productivity"
 tags:

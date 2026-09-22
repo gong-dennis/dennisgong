@@ -2,7 +2,7 @@
 title: "Hype in Science"
 date: "2020-12-26T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/RegenHype/"
 category: "Life Sciences"
 tags:

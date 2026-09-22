@@ -2,7 +2,7 @@
 title: Making your first website
 date: "2019-08-12T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/How-I-Made-My-Website/"
 category: "Programming"
 tags:

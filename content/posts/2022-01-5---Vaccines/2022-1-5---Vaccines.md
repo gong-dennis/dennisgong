@@ -2,7 +2,7 @@
 title: "A Post on Vaccines"
 date: "2022-01-05T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Vaccines/"
 category: "Life Sciences"
 tags:

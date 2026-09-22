@@ -2,7 +2,7 @@
 title: "Leadership"
 date: "2020-07-18T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Leadership/"
 category: "Thoughts"
 tags:

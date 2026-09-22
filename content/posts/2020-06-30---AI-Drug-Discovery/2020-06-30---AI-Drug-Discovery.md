@@ -2,7 +2,7 @@
 title: "AI Powered Drug Discovery"
 date: "2020-06-30T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/AI_Drug_Discovery/"
 category: "Healthcare"
 tags:

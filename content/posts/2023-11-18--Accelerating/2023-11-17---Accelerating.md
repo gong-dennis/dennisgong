@@ -2,7 +2,7 @@
 title: "Accelerating"
 date: "2023-11-17T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Accelerating/"
 category: "Life Sciences"
 tags:

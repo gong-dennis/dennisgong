@@ -2,7 +2,7 @@
 title: "Cell Therapy Infrastucture"
 date: "2021-11-01T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Infrastructure/"
 category: "Life Sciences"
 tags:

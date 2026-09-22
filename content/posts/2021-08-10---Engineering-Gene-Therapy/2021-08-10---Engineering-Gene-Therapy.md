@@ -2,7 +2,7 @@
 title: "Engineering Gene Therapy"
 date: "2021-08-10T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/GeneTx/"
 category: "Life Sciences"
 tags:

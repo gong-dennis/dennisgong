@@ -2,7 +2,7 @@
 title: Linear Mixed Effect Modeling for Fantasy Football
 date: "2019-09-13T12:00:00.000Z"
 template: "post"
-draft: false
+draft: True
 slug: "/blog/Fantasy_Football/"
 category: "Programming"
 tags:

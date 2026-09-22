@@ -2,7 +2,7 @@
 title: "Drug Repurposing"
 date: "2020-09-14T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Drug_Repurposing/"
 category: "Healthcare"
 tags:

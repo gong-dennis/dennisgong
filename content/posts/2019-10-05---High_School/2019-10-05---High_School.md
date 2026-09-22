@@ -2,7 +2,7 @@
 title: What I Wish I Did in High School
 date: "2019-10-05T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/High_School/"
 category: "Reflection"
 tags:

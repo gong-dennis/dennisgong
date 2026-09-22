@@ -2,7 +2,7 @@
 title: "Quantum Enabled Drug Development"
 date: "2020-07-29T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Quantum_Drug_Development/"
 category: "Healthcare"
 tags:

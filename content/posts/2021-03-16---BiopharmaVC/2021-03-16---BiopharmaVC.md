@@ -2,7 +2,7 @@
 title: "Misaligned Incentives in Bio VC"
 date: "2021-03-13T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/BioVC/"
 category: "Life Sciences"
 tags:

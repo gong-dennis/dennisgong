@@ -2,7 +2,7 @@
 title: "Twitter Gems"
 date: "2020-06-14T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Twitter_Gems/"
 category: "Random"
 tags:

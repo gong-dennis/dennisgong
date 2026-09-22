@@ -2,7 +2,7 @@
 title: "Reflections on Undergrad"
 date: "2022-02-12T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Undergrad/"
 category: "Personal"
 tags:

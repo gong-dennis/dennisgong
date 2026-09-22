@@ -2,7 +2,7 @@
 title: "Multi-Omics"
 date: "2020-05-05T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/multiomics/"
 category: "Healthcare"
 tags:

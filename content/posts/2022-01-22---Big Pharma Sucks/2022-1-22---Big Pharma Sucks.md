@@ -2,7 +2,7 @@
 title: "But Big Pharma Bad"
 date: "2022-01-22T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Pharma/"
 category: "Life Sciences"
 tags:

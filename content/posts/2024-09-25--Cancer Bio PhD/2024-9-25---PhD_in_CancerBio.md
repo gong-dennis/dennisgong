@@ -2,7 +2,7 @@
 title: "Doing a PhD in Cancer Biology"
 date: "2024-09-25T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/CancerPhD/"
 category: "Life Sciences"
 tags:

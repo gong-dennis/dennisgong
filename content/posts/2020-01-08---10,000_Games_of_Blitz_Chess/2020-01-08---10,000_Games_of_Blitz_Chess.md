@@ -2,7 +2,7 @@
 title: "10,000 Games of Blitz Chess"
 date: "2020-01-08T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/chess/"
 category: "Chess"
 tags:

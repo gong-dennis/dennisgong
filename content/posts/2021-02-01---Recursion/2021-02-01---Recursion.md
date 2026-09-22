@@ -2,7 +2,7 @@
 title: "Recursion Pharmaceuticals"
 date: "2021-02-01T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/Recursion/"
 category: "Life Sciences"
 tags:

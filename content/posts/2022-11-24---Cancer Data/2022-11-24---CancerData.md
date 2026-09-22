@@ -2,7 +2,7 @@
 title: "Molecular Cause of Death"
 date: "2022-11-24T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/CancerData/"
 category: "Life Sciences"
 tags:

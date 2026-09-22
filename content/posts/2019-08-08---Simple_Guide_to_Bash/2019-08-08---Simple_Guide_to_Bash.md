@@ -2,7 +2,7 @@
 title: My Guide to Bash Shell
 date: "2019-08-08T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/My-Guide-to-Bash/"
 category: "Programming"
 tags:

@@ -2,7 +2,7 @@
 title: "End of year review"
 date: "2023-12-31T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/EOY2023/"
 category: "Personal"
 tags:

@@ -2,7 +2,7 @@
 title: "What Happened in 2020"
 date: "2020-12-20T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/2020/"
 category: "Random"
 tags:

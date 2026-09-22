@@ -2,7 +2,7 @@
 title: "CRISPR"
 date: "2020-08-06T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/CRISPR/"
 category: "Healthcare"
 tags:

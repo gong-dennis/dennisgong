@@ -2,7 +2,7 @@
 title: "My approach to spatial -omics analysis"
 date: "2025-03-29T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/spatialomics/"
 category: "Life Sciences"
 tags:

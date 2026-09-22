@@ -2,7 +2,7 @@
 title: "Narrative Violation"
 date: "2020-02-29T12:00:00.000Z"
 template: "post"
-draft: False
+draft: True
 slug: "/blog/narrative/"
 category: "Thought"
 tags:
